@@ -20,9 +20,9 @@ from boolean_data import hasPlatinum
 
 # We have a bag of minerals, what elements do they contain?
 
-print(hasSilver or True)
-print(hasSilver or False)
-print(hasBronze and False)
-print(hasBronze or hasBronze)
-print(hasGold and hasSilver)
-print(hasPlatinum or hasGold)
+# print(hasSilver or True)
+# print(hasSilver or False)
+# print(hasBronze and False)
+# print(hasBronze or hasBronze)
+# print(hasGold and hasSilver)
+# print(hasPlatinum or hasGold)
